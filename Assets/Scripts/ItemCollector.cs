@@ -18,4 +18,5 @@ public class ItemCollector : MonoBehaviour
             appleText.text = "Apples: " + appleCount;
         }
     }
+
 }
